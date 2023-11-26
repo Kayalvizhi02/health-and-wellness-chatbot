@@ -44,8 +44,9 @@ This project is a chatbot application designed to provide personalized health an
 5. Enjoy an interactive and informative conversation with the health and wellness chatbot.
 
 ## Program:
-```python
+
 ### App.py
+```python
 
 from flask import Flask, render_template, request, jsonify
 
