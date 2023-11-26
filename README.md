@@ -20,7 +20,7 @@ This project is a chatbot application designed to provide personalized health an
 
 1. Clone the repository:
 ```
-    $ git clone https://github.com/python-engineer/chatbot-deployment.git
+    git clone https://github.com/python-engineer/chatbot-deployment.git
    
 ```
 2. Install the required packages:
